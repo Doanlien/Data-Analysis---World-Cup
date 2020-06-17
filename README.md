@@ -1,6 +1,6 @@
 # Data-Analysis---World-Cup
 
-Xin chào! Mình đang học về data analyst, do một phần thích xem World Cup và tìm được bộ dữ liệu này nên muốn thực hành luôn các kiến thức mà mình đã được học. Tuy kì World Cup gần nhất là 2018 nhưng rất tiếc mình chỉ tìm thấy bộ dữ liệu đầy đủ các kì từ đầu đến năm 2014 nên cứ phân tích đến năm 2014 nhé. 
+Xin chào! Mình đang học về data analyst, do một phần thích xem World Cup và tìm được bộ dữ liệu này trên Kaggle nên muốn thực hành luôn các kiến thức mà mình đã được học. Tuy kì World Cup gần nhất là 2018 nhưng rất tiếc mình chỉ tìm thấy bộ dữ liệu đầy đủ các kì từ đầu đến năm 2014 nên cứ phân tích đến năm 2014 nhé. 
 
 World Cup là giải vô địch bóng đá thế giới do Liên đoàn bóng đá thế giới Fifa tổ chức 4 năm 1 lần cho tất cả các đội tuyển bóng đá quốc gia của những nước thành viên Fifa. Giải đầu tiên được tổ chức vào năm 1930, và bị gián đoạn 2 lần vào các năm 1942và 1946 do Chiến tranh thế giới thứ hai.
 
